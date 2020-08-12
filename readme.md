@@ -22,3 +22,8 @@ running </br>
 where `<repo-name>` and `<repo-description>` are the repository name 
 and description respectively. Follow the instructions from there
 and your repo should be all set-up.
+
+## TODO
+<ul>
+    <li>Fix the error 403 when pushing to github repo</li>
+</ul>
